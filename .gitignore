@@ -1,0 +1,16 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.vscode
+/build
+__debug_bin.exe
+# Local configuration files
+doc/config*
+doc/deploy*
+config.json
+config.*.json
+# Test binary, built with `go test -c`
+*.test
